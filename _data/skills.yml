@@ -1,16 +1,16 @@
-header: Say something about what you're good at
+header: I am ready for anything you can throw at me
 
-subheader: Give some more context
+subheader: 
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Versatile
+    description: I am able to quickly adapt and learn new things at a moments notice
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Persistent
+    description: No matter how long something takes im in it until the end
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Dedicated
+    description: I will always put in 100% no matter what
 
 #If you have certifications, talk about them here
 certifications:

@@ -1,13 +1,13 @@
 #LinkedIn
-#https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+#https://www.linkedin.com/in/{{linedin_username}}/
+linkdin_username: dominick-favata-72178519/
 
 #GitHub
-#https://github.com/{{GitHubUsername}}
-github_username: /
+#https://github.com/{{github_username}}
+github_username: dfavs00/
 
-#https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+#https://github.com/{{github_username}}/{{github_repo}}
+github_repo: dfavs00.github.io/
 
 #The email you'd like people to contact you with.
-email: /
+email: dom@favata.com/

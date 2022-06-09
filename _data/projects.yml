@@ -1,13 +1,7 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Alpha-Fold 2
+  description: Machine learning in bioinformatics project where I closely replicated the Alpha-Fold2 protein structure prediction algorithm developed by DeepMind
 
-- name: Project 2
-  description: A few sentences describing your project.
-
-- name: Project 3
-  description: A few sentences describing your project.
-
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Cpu Scheduling Simulation
+  description: Developed a simulation for cpu scheduling using various scheduling algorithms such as Round Robin, FCFS and SJF
